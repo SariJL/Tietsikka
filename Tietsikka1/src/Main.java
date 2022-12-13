@@ -2,7 +2,7 @@ import java.util.ArrayList;
 public class Main {
 
 	public static void main(String[] args) {
-		// MÄÄRITELLÄÄN TIETOKONEET
+		// MÄÄRITELLÄÄN TIETOKONEET 2kpl
      
      Tietokone tietsikka1 = new Tietokone("r5 3600", 16, 512, "Asus TUF GAMING B550-PLUS");
      Tietokone tietsikka2 = new Tietokone("r3 3100", 8, 256, "Asus PRIME B550M-K");
