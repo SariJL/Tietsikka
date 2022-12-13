@@ -43,7 +43,7 @@ public class Main {
     this.kovalevyaKaytetty = 0;
   }
   
-  //METODIT
+  //METODEJA
   
   public void kaynnista() {
     this.virtalahdePaalla = true;
